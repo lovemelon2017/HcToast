@@ -1,0 +1,2 @@
+include ':app', ':hctoast'
+rootProject.name='HsToastDemo'
